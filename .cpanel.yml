@@ -1,1 +1,4 @@
-
+---
+   deployment:
+     targets:
+       - deployment_target: "default"
