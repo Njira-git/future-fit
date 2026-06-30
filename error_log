@@ -1,0 +1,140 @@
+[22-Jul-2025 02:47:54 UTC] PHP Warning:  Version warning: Imagick was compiled against ImageMagick version 1692 but version 1693 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[23-Jul-2025 02:01:32 UTC] PHP Warning:  Version warning: Imagick was compiled against ImageMagick version 1692 but version 1693 is loaded. Imagick will run but may behave surprisingly in Unknown on line 0
+[24-Jul-2025 01:55:34 UTC] PHP Warning:  include(/home/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache-base.php): Failed to open stream: No such file or directory in /home2/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 137
+[24-Jul-2025 01:55:34 UTC] PHP Warning:  include(/home/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache-base.php): Failed to open stream: No such file or directory in /home2/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 137
+[24-Jul-2025 01:55:34 UTC] PHP Warning:  include(): Failed opening '/home/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache-base.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 137
+[24-Jul-2025 01:55:34 UTC] PHP Warning:  include_once(/home/futurefit/public_html/wp-content/plugins/wp-super-cache/ossdl-cdn.php): Failed to open stream: No such file or directory in /home2/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 174
+[24-Jul-2025 01:55:34 UTC] PHP Warning:  include_once(): Failed opening '/home/futurefit/public_html/wp-content/plugins/wp-super-cache/ossdl-cdn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 174
+[24-Jul-2025 02:50:15 UTC] PHP Warning:  include(/home/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache-base.php): Failed to open stream: No such file or directory in /home2/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 137
+[24-Jul-2025 02:50:15 UTC] PHP Warning:  include(/home/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache-base.php): Failed to open stream: No such file or directory in /home2/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 137
+[24-Jul-2025 02:50:15 UTC] PHP Warning:  include(): Failed opening '/home/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache-base.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 137
+[24-Jul-2025 02:50:15 UTC] PHP Warning:  include_once(/home/futurefit/public_html/wp-content/plugins/wp-super-cache/ossdl-cdn.php): Failed to open stream: No such file or directory in /home2/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 174
+[24-Jul-2025 02:50:15 UTC] PHP Warning:  include_once(): Failed opening '/home/futurefit/public_html/wp-content/plugins/wp-super-cache/ossdl-cdn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 174
+[24-Jul-2025 02:50:16 UTC] PHP Warning:  include(/home/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache-base.php): Failed to open stream: No such file or directory in /home2/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 137
+[24-Jul-2025 02:50:16 UTC] PHP Warning:  include(/home/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache-base.php): Failed to open stream: No such file or directory in /home2/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 137
+[24-Jul-2025 02:50:16 UTC] PHP Warning:  include(): Failed opening '/home/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache-base.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 137
+[24-Jul-2025 02:50:16 UTC] PHP Warning:  include_once(/home/futurefit/public_html/wp-content/plugins/wp-super-cache/ossdl-cdn.php): Failed to open stream: No such file or directory in /home2/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 174
+[24-Jul-2025 02:50:16 UTC] PHP Warning:  include_once(): Failed opening '/home/futurefit/public_html/wp-content/plugins/wp-super-cache/ossdl-cdn.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/futurefit/public_html/wp-content/plugins/wp-super-cache/wp-cache.php on line 174
+[01-Oct-2025 03:17:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php:880
+Stack trace:
+#0 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(1968): PHPMailer\PHPMailer\PHPMailer->mailPassthru('mil.nira@gmail....', '=?us-ascii?Q?[E...', 'Howdy! Your sit...', 'Date: Wed, 1 Oc...', NULL)
+#1 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(1691): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Wed, 1 Oc...', 'Howdy! Your sit...')
+#2 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(1523): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home2/futurefit/public_html/wp-includes/pluggable.php(547): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(1149): wp_mail(Array, '[E-Commerce Rev...', 'Howdy! Your sit...', Array)
+#5 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(804): WP_Automatic_Updater->send_email('success', Object(stdClass))
+#6 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(771): WP_Automatic_Updater->after_core_update(Object(stdClass))
+#7 /home2/futurefit/public_html/wp-includes/update.php(861): WP_Automatic_Updater->run()
+#8 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update('')
+#9 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 /home2/futurefit/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#11 /home2/futurefit/public_html/wp-includes/update.php(304): do_action('wp_maybe_auto_u...')
+#12 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#14 /home2/futurefit/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home2/futurefit/public_html/wp-cron.php(191): do_action_ref_array('wp_version_chec...', Array)
+#16 {main}
+  thrown in /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php on line 880
+[08-Nov-2025 02:09:40 UTC] Cron reschedule event error for hook: recovery_mode_clean_expired_keys, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"daily","args":[],"interval":86400}
+[03-Dec-2025 05:35:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php:892
+Stack trace:
+#0 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(2083): PHPMailer\PHPMailer\PHPMailer->mailPassthru('mil.nira@gmail....', '=?us-ascii?Q?[E...', 'Howdy! Your sit...', 'Date: Wed, 3 De...', NULL)
+#1 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(1800): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Wed, 3 De...', 'Howdy! Your sit...')
+#2 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(1615): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home2/futurefit/public_html/wp-includes/pluggable.php(547): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(1149): wp_mail(Array, '[E-Commerce Rev...', 'Howdy! Your sit...', Array)
+#5 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(804): WP_Automatic_Updater->send_email('success', Object(stdClass))
+#6 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(771): WP_Automatic_Updater->after_core_update(Object(stdClass))
+#7 /home2/futurefit/public_html/wp-includes/update.php(861): WP_Automatic_Updater->run()
+#8 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(324): wp_maybe_auto_update('')
+#9 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#10 /home2/futurefit/public_html/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#11 /home2/futurefit/public_html/wp-includes/update.php(304): do_action('wp_maybe_auto_u...')
+#12 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(324): wp_version_check()
+#13 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#14 /home2/futurefit/public_html/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#15 /home2/futurefit/public_html/wp-cron.php(191): do_action_ref_array('wp_version_chec...', Array)
+#16 {main}
+  thrown in /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php on line 892
+[20-Jan-2026 18:17:12 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_name, option_value FROM Lce3f_options WHERE option_name IN ('_transient_doing_cron','_transient_timeout_doing_cron') made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, _wp_cron, spawn_cron, get_transient, wp_prime_option_caches
+[20-Jan-2026 18:17:12 UTC] WordPress database error Commands out of sync; you can't run this command now for query INSERT INTO `Lce3f_options` (`option_name`, `option_value`, `autoload`) VALUES ('_transient_doing_cron', '1768933032.2381570339202880859375', 'on') ON DUPLICATE KEY UPDATE `option_name` = VALUES(`option_name`), `option_value` = VALUES(`option_value`), `autoload` = VALUES(`autoload`) made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, _wp_cron, spawn_cron, set_transient, add_option
+[04-Feb-2026 14:16:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php:895
+Stack trace:
+#0 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(2083): PHPMailer\PHPMailer\PHPMailer->mailPassthru('mil.nira@gmail....', '=?us-ascii?Q?[E...', 'Howdy! Your sit...', 'Date: Wed, 4 Fe...', '-fwordpress@fut...')
+#1 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(1800): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Wed, 4 Fe...', 'Howdy! Your sit...')
+#2 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(1615): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home2/futurefit/public_html/wp-includes/pluggable.php(625): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(1149): wp_mail(Array, '[E-Commerce Rev...', 'Howdy! Your sit...', Array)
+#5 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(804): WP_Automatic_Updater->send_email('success', Object(stdClass))
+#6 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(771): WP_Automatic_Updater->after_core_update(Object(stdClass))
+#7 /home2/futurefit/public_html/wp-includes/update.php(890): WP_Automatic_Updater->run()
+#8 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(341): wp_maybe_auto_update('')
+#9 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#10 /home2/futurefit/public_html/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#11 /home2/futurefit/public_html/wp-includes/update.php(337): do_action('wp_maybe_auto_u...')
+#12 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(341): wp_version_check()
+#13 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#14 /home2/futurefit/public_html/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#15 /home2/futurefit/public_html/wp-cron.php(191): do_action_ref_array('wp_version_chec...', Array)
+#16 {main}
+  thrown in /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php on line 895
+[11-Mar-2026 05:49:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php:892
+Stack trace:
+#0 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(2083): PHPMailer\PHPMailer\PHPMailer->mailPassthru('mil.nira@gmail....', '=?us-ascii?Q?[E...', 'Howdy! Your sit...', 'Date: Wed, 11 M...', NULL)
+#1 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(1800): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Wed, 11 M...', 'Howdy! Your sit...')
+#2 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(1615): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home2/futurefit/public_html/wp-includes/pluggable.php(625): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(1149): wp_mail(Array, '[E-Commerce Rev...', 'Howdy! Your sit...', Array)
+#5 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(804): WP_Automatic_Updater->send_email('success', Object(stdClass))
+#6 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(771): WP_Automatic_Updater->after_core_update(Object(stdClass))
+#7 /home2/futurefit/public_html/wp-includes/update.php(890): WP_Automatic_Updater->run()
+#8 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(341): wp_maybe_auto_update('')
+#9 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#10 /home2/futurefit/public_html/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#11 /home2/futurefit/public_html/wp-includes/update.php(337): do_action('wp_maybe_auto_u...')
+#12 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(341): wp_version_check()
+#13 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#14 /home2/futurefit/public_html/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#15 /home2/futurefit/public_html/wp-cron.php(191): do_action_ref_array('wp_version_chec...', Array)
+#16 {main}
+  thrown in /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php on line 892
+[12-Mar-2026 09:30:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php:892
+Stack trace:
+#0 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(2083): PHPMailer\PHPMailer\PHPMailer->mailPassthru('mil.nira@gmail....', '=?us-ascii?Q?[E...', 'Howdy! Your sit...', 'Date: Thu, 12 M...', NULL)
+#1 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(1800): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Thu, 12 M...', 'Howdy! Your sit...')
+#2 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(1615): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home2/futurefit/public_html/wp-includes/pluggable.php(625): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(1149): wp_mail(Array, '[E-Commerce Rev...', 'Howdy! Your sit...', Array)
+#5 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(804): WP_Automatic_Updater->send_email('success', Object(stdClass))
+#6 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(771): WP_Automatic_Updater->after_core_update(Object(stdClass))
+#7 /home2/futurefit/public_html/wp-includes/update.php(890): WP_Automatic_Updater->run()
+#8 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(341): wp_maybe_auto_update('')
+#9 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#10 /home2/futurefit/public_html/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#11 /home2/futurefit/public_html/wp-includes/update.php(337): do_action('wp_maybe_auto_u...')
+#12 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(341): wp_version_check()
+#13 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#14 /home2/futurefit/public_html/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#15 /home2/futurefit/public_html/wp-cron.php(191): do_action_ref_array('wp_version_chec...', Array)
+#16 {main}
+  thrown in /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php on line 892
+[21-May-2026 02:19:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php:893
+Stack trace:
+#0 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(2139): PHPMailer\PHPMailer\PHPMailer->mailPassthru('mil.nira@gmail....', '=?us-ascii?Q?[E...', 'Howdy! Your sit...', 'Date: Thu, 21 M...', NULL)
+#1 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(1853): PHPMailer\PHPMailer\PHPMailer->mailSend('Date: Thu, 21 M...', 'Howdy! Your sit...')
+#2 /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php(1668): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home2/futurefit/public_html/wp-includes/pluggable.php(625): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(1149): wp_mail(Array, '[E-Commerce Rev...', 'Howdy! Your sit...', Array)
+#5 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(804): WP_Automatic_Updater->send_email('success', Object(stdClass))
+#6 /home2/futurefit/public_html/wp-admin/includes/class-wp-automatic-updater.php(771): WP_Automatic_Updater->after_core_update(Object(stdClass))
+#7 /home2/futurefit/public_html/wp-includes/update.php(890): WP_Automatic_Updater->run()
+#8 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(341): wp_maybe_auto_update('')
+#9 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#10 /home2/futurefit/public_html/wp-includes/plugin.php(522): WP_Hook->do_action(Array)
+#11 /home2/futurefit/public_html/wp-includes/update.php(337): do_action('wp_maybe_auto_u...')
+#12 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(341): wp_version_check()
+#13 /home2/futurefit/public_html/wp-includes/class-wp-hook.php(365): WP_Hook->apply_filters('', Array)
+#14 /home2/futurefit/public_html/wp-includes/plugin.php(570): WP_Hook->do_action(Array)
+#15 /home2/futurefit/public_html/wp-cron.php(191): do_action_ref_array('wp_version_chec...', Array)
+#16 {main}
+  thrown in /home2/futurefit/public_html/wp-includes/PHPMailer/PHPMailer.php on line 893
